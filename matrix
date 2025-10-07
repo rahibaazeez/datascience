@@ -1,0 +1,34 @@
+print("\n matrix 1:\n",c)
+print("\n matrix 1:\n",c)
+print("\n addition:\n",c+d)
+print("\n subtraction:\n",c-d)
+print("\n multplication(Element wise):\n",c*d)
+print("\n dot multiplication (row * coloumn):\n",f)
+print("\n Transpose:\n",f.T)
+ matrix 1:
+ [[1 2]
+ [3 4]]
+
+ matrix 1:
+ [[1 2]
+ [3 4]]
+
+ addition:
+ [[ 2  6]
+ [11  8]]
+
+ subtraction:
+ [[ 0 -2]
+ [-5  0]]
+
+ multplication(Element wise):
+ [[ 1  8]
+ [24 16]]
+
+ dot multiplication (row * coloumn):
+ [[17 12]
+ [35 28]]
+
+ Transpose:
+ [[17 35]
+ [12 28]]
